@@ -2,7 +2,3 @@
 
 ## Source
 - [Namecensus](https://namecensus.com/)
-
-## Author
-
-The author of this project is Jakub Rudnik.
